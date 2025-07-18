@@ -1,0 +1,4 @@
+"EnvironmentalFactor","DiversityMeasure","Spearman_Rho","P_Value"
+"Total_Antibiotic_Stress","Bacteria_Shannon",-0.303604178163445,"< 0.001"
+"Total_Antibiotic_Stress","Archaea_Shannon",-0.112877163184313,"0.215"
+"Total_Antibiotic_Stress","Fungi_Shannon",0.0337617019307979,"0.712"
