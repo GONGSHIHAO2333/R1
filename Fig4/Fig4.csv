@@ -1,0 +1,7 @@
+"EnvironmentalFactor","DiversityMeasure","Spearman_Rho","P_Value"
+"Total_Antibiotic_Stress","Denitrification_Bacteria",0.246846715859111,"0.00624"
+"Total_Antibiotic_Stress","Denitrification_Archaea",-0.327828061034392,"< 0.001"
+"Total_Antibiotic_Stress","Denitrification_Fungi",0.0562008425372779,"0.539"
+"Total_Antibiotic_Stress","DNR_Bacteria",0.191536608497097,"0.0347"
+"Total_Antibiotic_Stress","DNR_Archaea",-0.228329397356505,"0.0114"
+"Total_Antibiotic_Stress","DNR_Fungi",-0.198568574212836,"0.0283"
